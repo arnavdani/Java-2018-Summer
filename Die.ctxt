@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Die()
+comment0.text=\r\n\ Creates\ a\ Die\ object\ with\ six\ sides.\r\n
+comment1.params=s
+comment1.target=Die(int)
+comment1.text=\r\n\ Creates\ a\ Die\ object\ with\ the\ number\ of\ sides\r\n\ specified\ as\ a\ parameter.\r\n\ \r\n\ @param\ s\ \ \ \ \ number\ of\ sides\ of\ this\ die\r\n
+comment2.params=
+comment2.target=int\ getSides()
+comment2.text=\r\n\ Retrieve\ the\ number\ of\ sides.\r\n\r\n\ @return\ \ \ \ \ \ number\ of\ sides\ of\ this\ die\r\n
+comment3.params=s
+comment3.target=void\ setSides(int)
+comment3.text=\r\n\ Sets\ the\ number\ of\ sides\ of\ this\ die.\r\n\ \r\n\ @param\ s\ \ \ \ \ the\ new\ number\ of\ sides\ for\ this\ die\r\n
+comment4.params=
+comment4.target=int\ roll()
+comment4.text=\r\n\ Simulates\ the\ rolling\ of\ a\ die.\r\n\ \r\n\ @return\ number\ between\ 1\ and\ sides,\ inclusively\r\n
+numComments=5
